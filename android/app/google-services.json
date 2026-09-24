@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284532386410",
+    "project_id": "math-learning-app-a5262",
+    "storage_bucket": "math-learning-app-a5262.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284532386410:android:db0fad336e015ad8197813",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9uL-CZr5hcLwX-3FsxrWF85VsCIlr4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284532386410:android:233c3d4753cc1e1b197813",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9uL-CZr5hcLwX-3FsxrWF85VsCIlr4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
