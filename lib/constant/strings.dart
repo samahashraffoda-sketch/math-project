@@ -1,2 +1,3 @@
 const loginScreen = '/';
-const otpScreen ='/otpScreen';
+const otpScreen ='otpScreen';
+const mapScreen ='mapScreen';
